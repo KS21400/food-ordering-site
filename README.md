@@ -17,17 +17,18 @@ Add/delete/update Food Item
 Showcase the food Item on Website
 Get information of food ordered
 
-Restaurant can do following things:
+Admin can do following things:
 Can look the report of all orders
 Can delete any user.
 Can make changes in the site.
 Supervision of the system.
 
-There is no real payment otion. The feature of database storage works properly.
+There is no real payment option. The feature of database storage works properly.
 
 languages used: HTML,CSS,JavaScript,jquery,Bootstrap,
 Database used: SQl
 
+Any improvement is welcomed.
 
 
 
